@@ -10,7 +10,7 @@ terraform {
     bucket = "vrapracash-1"
     key    = "expense-tools"
     region = "us-east-1"
-    dynamodb_table = "81s-locking"
+    dynamodb_table = "expense"
   }
 }
 
